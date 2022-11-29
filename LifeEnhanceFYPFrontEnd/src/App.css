@@ -1,0 +1,12 @@
+* {
+    font-family: "Press Start 2P";
+}
+
+::placeholder{
+    font-family: "Press Start 2P";
+}
+
+input[type="text"]
+{
+    font-family: "Press Start 2P";
+}
